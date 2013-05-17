@@ -2,7 +2,7 @@ import socket, ssl, json, struct
 
 # device token returned when the iPhone application
 # registers to receive alerts
-#
+#######
 deviceToken = 'e99c9b5b 824a9434 b063dc41 14f3832e 64950d37 1d8305ef d30f3076 1ffe248d' 
 
 thePayLoad = {
